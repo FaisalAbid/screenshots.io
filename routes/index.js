@@ -11,7 +11,7 @@ module.exports = function(app) {
   // routes
   app.get('/', function(req, res, next) {
     if (!req.param('url', false)) {
-      return res.redirect('/usage.html');
+      return res.redirect('/faisalabid.com');
     }
 
     var url = utils.url(req.param('url'));

@@ -1,3 +1,9 @@
 node_modules
 config/development.yaml
 config/production.yaml
+
+.DS_Store
+
+config/runtime.json
+
+project.tmproj
