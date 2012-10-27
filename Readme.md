@@ -1,3 +1,12 @@
+# Screenshots.io
+This is the official fork for Screenshots.io, feel free to fork this and implement new features. Send a pull request if you got something you want to integrate with the code base.
+
+If you just want to use the service, then the url is
+api.screenshots.io/[your-url]
+
+
+The following is the Readme from the parent "Screenshot-as-a-service"
+
 # Screenshot as a Service
 
 A simple screenshot web service powered by [Express](http://expressjs.com) and [PhantomJS](http://www.phantomjs.org/). Forked from [screenshot-app](http://github.com/visionmedia/screenshot-app).
